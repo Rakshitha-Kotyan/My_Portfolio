@@ -1,4 +1,4 @@
-<img width="1891" height="914" alt="1" src="https://github.com/user-attachments/assets/512a4b37-5572-4323-90b9-fdbe1bf34ef9" /><img width="1902" height="910" alt="3" src="https://github.com/user-attachments/assets/14cf34c3-b351-45e2-8a89-e0f48a055740" /><img width="1902" height="910" alt="3" src="https://github.com/user-attachments/assets/b6c24932-6865-4625-ba29-91660828c7a6" /># 🌐 Rakshitha's Portfolio
+#  Rakshitha's Portfolio
 
 A modern and responsive developer portfolio showcasing my projects, skills, and experience. Built using React and Tailwind CSS with a focus on clean UI and smooth user experience.
 
