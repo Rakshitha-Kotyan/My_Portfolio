@@ -25,11 +25,11 @@ const projects = [
     github: "https://github.com/Rakshitha-Kotyan/Mark-Management-System", // replace
   },
   {
-    title: "Android Cinema App",
+    title: "Arogya-Nidhi Healthcare App",
     description:
-      "An Android application that allows users to explore movies by genre, ratings, and categories with an intuitive and user-friendly interface.",
-    tags: ["Java", "Android Studio", "XML"],
-    github: "https://github.com/Rakshitha-Kotyan/Mark-Management-System", // replace
+      "An Android-based healthcare eligibility application that helps users identify suitable government health schemes, view required documents, and find nearby empaneled hospitals through a simple and user-friendly interface.",
+    tags: ["Kotlin", "Android Studio", "Room Database", "JSON", "XML"],
+    github: "https://github.com/Rakshitha-Kotyan/ArogyaNidhi-App", // replace with actual repo link
   },
 ];
 
